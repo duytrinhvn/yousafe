@@ -1,0 +1,10 @@
+[14-Aug-2020 02:33:43 UTC] hello
+[14-Aug-2020 02:33:49 UTC] hello
+[14-Aug-2020 02:39:57 UTC] PHP Warning:  A non-numeric value encountered in D:\laragon\www\ysmask-local\wp-content\plugins\ys-products\ys-meta-boxes.php on line 73
+[14-Aug-2020 02:39:58 UTC] PHP Warning:  A non-numeric value encountered in D:\laragon\www\ysmask-local\wp-content\plugins\ys-products\ys-meta-boxes.php on line 73
+[14-Aug-2020 02:42:56 UTC] PHP Parse error:  syntax error, unexpected ')' in D:\laragon\www\ysmask-local\wp-content\plugins\ys-products\ys-meta-boxes.php on line 43
+[14-Aug-2020 02:43:12 UTC] PHP Warning:  A non-numeric value encountered in D:\laragon\www\ysmask-local\wp-content\plugins\ys-products\ys-meta-boxes.php on line 79
+[14-Aug-2020 02:44:55 UTC] PHP Warning:  A non-numeric value encountered in D:\laragon\www\ysmask-local\wp-content\plugins\ys-products\ys-meta-boxes.php on line 79
+[15-Aug-2020 23:08:12 UTC] PHP Fatal error:  Cannot redeclare ys_products_post_types() (previously declared in D:\laragon\www\ysmask-local\wp-content\mu-plugins\ys-post-types.php:8) in D:\laragon\www\ysmask-local\wp-content\plugins\ys-products\ys-post-types.php on line 78
+[15-Aug-2020 23:08:12 UTC] PHP Fatal error:  Cannot redeclare ys_products_post_types() (previously declared in D:\laragon\www\ysmask-local\wp-content\mu-plugins\ys-post-types.php:8) in D:\laragon\www\ysmask-local\wp-content\plugins\ys-products\ys-post-types.php on line 78
+[15-Aug-2020 23:34:17 UTC] PHP Parse error:  syntax error, unexpected 'fluida_get_sidebar' (T_STRING), expecting '(' in D:\laragon\www\ysmask-local\wp-content\themes\fluida\includes\core.php on line 319
